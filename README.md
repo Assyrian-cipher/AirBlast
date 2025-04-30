@@ -1,5 +1,5 @@
 # AirBlast
-Python Shell Script Automating Aircrack wirless networks DDOS Attack.
+Python Shell Script Automating Aircrack Deauth Attacks.
 
 # How To Use 
 Open a Terminal:
