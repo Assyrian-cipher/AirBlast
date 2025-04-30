@@ -13,6 +13,6 @@ Run:
 
 sudo python3 airblast.py.
 
-# If The App Fails to Stop Monitor Mode 
+ If The App Fails to Stop Monitor Mode 
 
 sudo service network-manager restart.
